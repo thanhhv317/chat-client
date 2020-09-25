@@ -1,0 +1,45 @@
+.container {
+  min-height: 100vh;
+  background-color: #00e676;
+}
+
+.enter-room-button {
+  padding: 5px;
+  color: #000000;
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+.enter-room-button:hover {
+  background-color: #f1f8e9;
+}
+
+.MuiListItem-gutters:hover {
+  background-color: #a5d6a7;
+}
+
+.message-item {
+  width: 55%;
+  margin: 8px;
+  padding: 12px 8px;
+  word-break: break-word;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #616161;
+  text-align: left;
+}
+
+.my-message {
+  background-color: #0084ff;
+  margin-left: auto;
+  text-align: right;
+}
+
+.received-message {
+  background-color: #3f4042;
+  margin-right: auto;
+}
+
+.full-width {
+    width: 100%;
+}
